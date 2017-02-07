@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 百宝箱顶部 -->
+    <color name="treasure_box_top_bg">#ffffff</color>
+    <color name="treasure_box_content_bg">#f5f5f5</color>
+    <color name="treasure_box_mobile_bg">#e5e5e5</color>
+    <color name="treasure_box_guide">#B2000000</color>
+    <color name="home_ops_normal">#a000</color>
+
+    <!-- pure white (#C4)-->
+    <color name="common_white">#ffffff</color>
+    <color name="common_white_alpha_97">#f7ffffff</color>
+    <color name="common_white_alpha_90">#e5ffffff</color>
+    <color name="common_white_alpha_80">#ccffffff</color>
+    <color name="common_white_alpha_75">#bfffffff</color>
+    <color name="common_white_alpha_70">#b3ffffff</color>
+    <color name="common_white_alpha_60">#99ffffff</color>
+    <!-- For main texts (#C1) -->
+    <color name="common_dark">#000000</color>
+
+    <!-- For main texts (#C2) -->
+    <color name="common_dark_grey">#8a000000</color>
+    <!-- For secondary texts (#C3) -->
+    <color name="common_grey">#4c000000</color>
+    <color name="common_light_grey">#cdcdcd</color>
+    <color name="common_grey_disabled">#aabbc4</color>
+
+    <color name="common_divider_color">#19000000</color>
+</resources>

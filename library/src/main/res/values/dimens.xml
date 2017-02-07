@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="treasure_box_dgv_overlap_if_switch_straight_line">16dp</dimen>
+
+    <!-- (S1) For texts on result pages -->
+    <dimen name="common_text_size_xlarge">24dp</dimen>
+    <!-- (S2) For titlebar texts-->
+    <dimen name="common_text_size_large">20dp</dimen>
+    <dimen name="common_text_size_large_1">19dp</dimen>
+
+    <!-- (S3) For middle texts on result pages-->
+    <dimen name="common_text_size_middle">18dp</dimen>
+    <dimen name="common_text_size_middle_1">17dp</dimen>
+    <!-- (S4) For text on list header-->
+    <dimen name="common_text_size_middle_2">16dp</dimen>
+
+    <!-- (S5) For list texts (bottom line), summary texts, icon texts, descriptions, tag texts -->
+    <dimen name="common_text_size_small">14dp</dimen>
+    <!-- (S6) For button text -->
+    <dimen name="common_text_size_small_1">12dp</dimen>
+    <dimen name="common_text_size_small_2">10dp</dimen>
+</resources>

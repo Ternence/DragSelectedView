@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/treasure_item"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/treasure_box_item_selector"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/item_img"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:layout_width="56dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="#8a000000"
+        android:textSize="@dimen/common_text_size_small_1" />
+
+</LinearLayout>
